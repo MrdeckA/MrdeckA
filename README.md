@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) Welcome to my github profile ! Nice to meet you 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+github+profile+!+Nice+to+meet+you+👋)](https://git.io/typing-svg) 
 <img align="right"  src='https://static.javatpoint.com/images/javascript/javascript_logo.png' width='300'>
 
 
