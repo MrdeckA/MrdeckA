@@ -4,6 +4,10 @@
 
 ### Javascript, Node Js, Express Js, Mongo DB, Flutter, Firebase
 
+Software Engineering Student - Full Stack Node.Js Developer - Vue.Js, Express.Js, MongoDB -Mobile Dev
+
+I have always been passionate about computers in general. I particularly like web development especially with the JavaScript language. The fact of developing web applications in javascript and especially APIs with Node.js technologies and the Express.js Framework pleases me enormously.
+
 
 
 
