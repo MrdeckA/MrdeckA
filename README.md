@@ -8,7 +8,7 @@ Software Engineering Student - Full Stack Node.Js Developer - Vue.Js, Express.Js
 
 I have always been passionate about computers in general. I particularly like web development especially with the JavaScript language. The fact of developing web applications in javascript and especially APIs with Node.js technologies and the Express.js Framework pleases me enormously.
 
-[![Meriadeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdecka&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/mrdecka/github-readme-stats)
+[![Meriadeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdecka&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/mrdecka/github-readme-stats)
 <!--
 **MrdeckA/MrdeckA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
