@@ -8,6 +8,15 @@ Software Engineering Student - Full Stack Node.Js Developer - Vue.Js, Express.Js
 
 I have always been passionate about computers in general. I particularly like web development especially with the JavaScript language. The fact of developing web applications in javascript and especially APIs with Node.js technologies and the Express.js Framework pleases me enormously.
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 [![Meriadeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdecka&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/mrdecka/github-readme-stats)
 
 
