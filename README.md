@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=500&lines=Welcome+to+my+github+profile+Nice+to+meet+you+👋)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=500&lines=Welcome+to+my+github+profile+Nice+to+meet+you+👋)](https://github.com/mrdecka)
 <img align="right"  src='https://static.javatpoint.com/images/javascript/javascript_logo.png' width='300'>
 
 
@@ -24,7 +24,6 @@ I have always been passionate about computers in general. I particularly like we
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdecka&count_private=true&layout=compact&langs_count=6)](https://github.com/mrdecka/github-readme-stats)
   
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=mrdecka&theme=onedark)](https://github.com/mrdecka/github-profile-trophy)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrdecka)](https://git.io/streak-stats)
 
