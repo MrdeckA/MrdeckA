@@ -11,9 +11,8 @@ I have always been passionate about computers in general. I particularly like we
 [![Meriadeck's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdecka&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/mrdecka/github-readme-stats)
 
 
-<center>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdecka)](https://github.com/mrdecka/github-readme-stats)
-</center>
 
 
 <!--
