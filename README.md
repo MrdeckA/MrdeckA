@@ -9,7 +9,7 @@ Software Engineering Student - Full Stack Node.Js Developer - Vue.Js, Express.Js
 I have always been passionate about computers in general. I particularly like web development especially with the JavaScript language. The fact of developing web applications in javascript and especially APIs with Node.js technologies and the Express.js Framework pleases me enormously.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mériadeck GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdecka)](https://github.com/mrdecka/github-readme-stats)
 
 <!--
 **MrdeckA/MrdeckA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
