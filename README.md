@@ -13,6 +13,9 @@ I have always been passionate about computers in general. I particularly like we
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdecka&count_private=true&layout=compact&langs_count=6)](https://github.com/mrdecka/github-readme-stats)
+  
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=mrdecka&theme=onedark)](https://github.com/mrdecka/github-profile-trophy)
 
 
 <!--
