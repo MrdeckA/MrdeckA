@@ -1,5 +1,5 @@
 ## Welcome to my github profile ! Nice to meet you 👋
-<img align="right"  src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fjavascript-tutorial&psig=AOvVaw3bVvwIZaMaQ-ac01DEfYVq&ust=1674427632959000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj8oJXf2fwCFQAAAAAdAAAAABAD' width='300'>
+<img align="right"  src='https://static.javatpoint.com/images/javascript/javascript_logo.png' width='300'>
 
 
 ### Javascript, Node Js, Express Js, Mongo DB, Flutter, Firebase
