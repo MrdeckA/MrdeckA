@@ -17,7 +17,7 @@ I have always been passionate about computers in general. I particularly like we
 <a href="javascript:void(0)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdecka&langs_count=8)](https://github.com/mrdecka/github-readme-stats)
 
 
 
