@@ -28,7 +28,7 @@ I have always been passionate about computers in general. I particularly like we
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrdecka)](https://git.io/streak-stats)
 
 ### Github Trophy
-[![Trophy](https://github-profile-trophy.vercel.app/?username=princeGedeon)](https://github-profile-trophy.vercel.app/?username=princeGedeon)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mrdeckA)](https://github-profile-trophy.vercel.app/?username=mrdeckA)
 
 
 
