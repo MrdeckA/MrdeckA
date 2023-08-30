@@ -1,6 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=500&lines=Welcome+to+my+github+profile+Nice+to+meet+you+👋)](https://github.com/mrdecka)
 <img align="right"  src='https://static.javatpoint.com/images/javascript/javascript_logo.png' width='300'>
 
+ [![committers.top badge](https://user-badge.committers.top/benin/MrdeckA.svg)](https://user-badge.committers.top/benin/MrdeckA)
+
+
 
 ### Javascript, Node Js, Express Js, Mongo DB, Flutter, Firebase
 
@@ -27,7 +30,6 @@ I have always been passionate about computers in general. I particularly like we
 
 
 
- [![committers.top badge](https://user-badge.committers.top/benin/MrdeckA.svg)](https://user-badge.committers.top/benin/MrdeckA)
 
 
 ### Github Trophy
